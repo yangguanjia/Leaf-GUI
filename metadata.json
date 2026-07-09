@@ -1,0 +1,6 @@
+{
+  "name": "Leaf Custom GUI",
+  "description": "A minimalist, cyberpunk dark-themed Tauri dashboard for the Leaf proxy core with comprehensive routing rules, node manager, system settings, and interactive terminal logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
